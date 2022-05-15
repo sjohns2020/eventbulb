@@ -6,7 +6,7 @@ This was a solo project based on an an events booking web application called Eve
 
 
 During this project I learned:
-
+______________________________
 How to work with Ajile methodologies
 
 Fundamnetals on HTML, CSS, PYTHON, DJANGO framework, PostgreSQL, Object Orientated Programming. 
@@ -22,9 +22,6 @@ Cloud sharing services with AWS
 
 
 Learnings for next project:
-
 Testing regularly and writing good tests is essential
-
 Regularly Git commits aid version control 
-
 Paired programming and asking for help after short periods of jamming is good practice.  
