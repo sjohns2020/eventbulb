@@ -1,4 +1,6 @@
 
+This app is deployed on heroku.  Visit https://sean-eventbulb.herokuapp.com/
+
 This is an event booking web app called 'Event Bulb'.  
 Using Python and the Django framework I created this web app with users and events and alows users to sign up to events.  This project used GitHub for version control and was deployed with Heroku.
 
